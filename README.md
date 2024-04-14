@@ -48,16 +48,7 @@ This is a simple calculator application implemented in C# using the Gtk# library
 ![Delete](/Screenshots/Delete.png)
 
 ## Working Video
-[![Demo Video](/Screenshots/gifi.gif)](video_file.mp4)
-
-
-[Download Video](Screenshots/video.mp4)
-
-Click the link above to download the video and view it on your device.
-
-
-
-
+[![Demo Video](/Screenshots/gifi.gif)](/Screenshots/video.mp4)
 
 ### Contributing:
 
