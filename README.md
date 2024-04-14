@@ -43,7 +43,13 @@ This is a simple calculator application implemented in C# using the Gtk# library
 
 ### Screenshots:
 
-![Calculator App](/screenshots/calculator_app.png)
+![Calculator App](/Screenshots/Calculator.png)
+![History](/Screenshots/History.png)
+![Update](/Screenshota/updtae.png)
+![Delete](/Screenshota/Delete.png)
+
+
+
 
 ### Contributing:
 
