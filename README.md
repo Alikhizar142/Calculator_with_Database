@@ -24,7 +24,7 @@ This is a simple calculator application implemented in C# using the Gtk# library
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Calculator_with_Database.git
+   git clone https://github.com/Alikhizar142/Calculator_with_Database.git
    ```
 2. Navigate to the project directory:
    ```bash
