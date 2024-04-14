@@ -22,7 +22,7 @@ This is a simple calculator application implemented in C# using the Gtk# library
    ```
 2. Navigate to the project directory:
    ```bash
-   cd calculator-app
+   cd Calculator_with_Database
    ```
 3. Build the project:
    ```bash
