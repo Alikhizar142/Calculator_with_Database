@@ -10,10 +10,9 @@ This is a simple calculator application implemented in C# using the Gtk# library
 - **Update and Delete:** Modify existing calculations by updating operands or operators, and delete specific calculations from the history.
 
 ### Prerequisites:
-
 - [.NET Core SDK](https://dotnet.microsoft.com/download)
 - [Gtk#](https://www.mono-project.com/download/stable/#download-lin)
-
+- **Database:** MSSQL database named "Calculator" for smooth operation. Make sure you have the database set up before running the application.
 ### Installation:
 
 1. Clone the repository:
