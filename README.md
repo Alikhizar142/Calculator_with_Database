@@ -9,6 +9,13 @@ This is a simple calculator application implemented in C# using the Gtk# library
 - **Calculation History:** View a history of previous calculations.
 - **Update and Delete:** Modify existing calculations by updating operands or operators, and delete specific calculations from the history.
 
+### Technologies Used:
+- **C#:** The primary programming language used for developing the application logic.
+- **Gtk#:** The graphical user interface (GUI) library used for creating the cross-platform GUI.
+- **.NET Core SDK:** Required for building and running the .NET Core application.
+- **MonoDevelop:** Integrated development environment (IDE) for C# development, used for writing and managing the codebase.
+- **MSSQL:** Microsoft SQL Server used as the backend database for storing calculation history.
+- **Azure Data Studio:** A cross-platform database tool for MSSQL, used for managing and querying the database.
 ### Prerequisites:
 - [.NET Core SDK](https://dotnet.microsoft.com/download)
 - [Gtk#](https://www.mono-project.com/download/stable/#download-lin)
