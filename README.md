@@ -47,6 +47,8 @@ This is a simple calculator application implemented in C# using the Gtk# library
 ![History](/Screenshots/History.png)
 ![Update](/Screenshots/update.png)
 ![Delete](/Screenshots/Delete.png)
+![Working_video](/Screenshots/video.mp4)
+
 
 
 
