@@ -72,6 +72,6 @@ This project was inspired by the need for a simple yet functional calculator app
 
 ### Contact:
 
-For any inquiries or feedback, feel free to contact [akrcy](mailto:p229269@pwr.nu.edu.pk).
+For any inquiries or feedback, feel free to contact [Alikhizar142](mailto:p229269@pwr.nu.edu.pk).
 
 **Happy calculating!**
