@@ -66,6 +66,6 @@ This project was inspired by the need for a simple yet functional calculator app
 
 ### Contact:
 
-For any inquiries or feedback, feel free to contact [yourname](mailto:youremail@example.com).
+For any inquiries or feedback, feel free to contact [akrcy](mailto:p229269@pwr.nu.edu.pk).
 
 **Happy calculating!**
