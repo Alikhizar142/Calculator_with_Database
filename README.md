@@ -12,7 +12,7 @@ This is a simple calculator application implemented in C# using the Gtk# library
 ### Prerequisites:
 - [.NET Core SDK](https://dotnet.microsoft.com/download)
 - [Gtk#](https://www.mono-project.com/download/stable/#download-lin)
-- **Database:** MSSQL database named "Calculator" for smooth operation. Make sure you have the database set up before running the application.
+- **Database Setup:** Ensure you have MSSQL installed and set up. Additionally, there is a folder named "database" in the project directory containing an SQL file (`SQLQuery.sql`) for creating the required database and table. Execute this SQL script in your MSSQL environment to create the necessary database structure before running the application. The database should be named "Calculator" for smooth operation.
 ### Installation:
 
 1. Clone the repository:
